@@ -94,7 +94,11 @@ Seamlessly integrate Figma designs into your development process:
 4. Copy Figma selection links directly into your development workflow
 
 ### PM Code Review Workflow (`workflows/pm-code-review.md`)
-Product Manager-focused code review process for non-technical stakeholders.
+Systematic approach to code reviews from a product perspective:
+1. **Structured Checklist** - Cover business logic, UX, data integrity, and quality standards
+2. **Guiding Questions** - Specific questions to ask during each review category
+
+
 
 ## 🚀 Getting Started
 
@@ -141,6 +145,12 @@ Use the `prompt-templates/do-the-plan.md` template to guide AI developers throug
 - **Be specific** - Provide clear context and constraints
 - **Iterate systematically** - Use the review template to catch issues early
 - **Maintain context** - Reference your foundation documents in AI conversations
+
+### For Code Reviews
+- **Use the structured checklist** - Follow the PM code review workflow systematically
+- **Focus on business impact** - Prioritize issues that affect user experience and business logic
+- **Document findings clearly** - Use the review template to communicate effectively with developers
+- **Escalate appropriately** - Know when to block PRs vs. request changes vs. ask for clarification
 
 ## 🔧 Customization
 
