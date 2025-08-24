@@ -1,0 +1,3 @@
+- use folder structure as thinking structure
+- create templates, like hypothesis, decision log, etc. 
+- document AI conversations

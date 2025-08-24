@@ -1,0 +1,1 @@
+the official Linear remote MCP server here: https://linear.app/changelog/2025-05-01-mcp (https://mcp.linear.app/sse)
