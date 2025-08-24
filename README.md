@@ -149,8 +149,6 @@ Use the `prompt-templates/do-the-plan.md` template to guide AI developers throug
 ### For Code Reviews
 - **Use the structured checklist** - Follow the PM code review workflow systematically
 - **Focus on business impact** - Prioritize issues that affect user experience and business logic
-- **Document findings clearly** - Use the review template to communicate effectively with developers
-- **Escalate appropriately** - Know when to block PRs vs. request changes vs. ask for clarification
 
 ## 🔧 Customization
 
