@@ -10,9 +10,22 @@ This template provides Product Managers with a structured approach to:
 - **Build & Iterate**: Guide AI developers through systematic implementation
 - **Review & Refine**: Ensure quality and maintainability of delivered code
 
-## 🚀 Start Here: Prompt Templates
+## 🚀 Start Here: System Prompt + Templates
 
-**The core of this system - everything you need to go from idea to working code.**
+**Begin with the system prompt, then use our specialized templates to guide AI IDEs through your development process.**
+
+### 1. **System Prompt** (`prompt-templates/system-prompt.md`)
+Your foundation for consistent, high-quality AI collaboration:
+- **Comprehensive guidelines** for AI coding assistants
+- **Project structure standards** and best practices
+- **Communication protocols** for clear, systematic development
+- **Technology stack preferences** (React + Vite)
+- **Error handling and debugging** procedures
+
+**When to use:** Configure this as your AI assistant's system prompt before starting any development work. This ensures consistent behavior and quality across all your projects.
+
+### 2. **Prompt Templates** (`prompt-templates/`)
+**Specialized prompts designed for use with AI IDEs** - guide your AI assistant through structured development workflows.
 
 ### For New Projects (`prompt-templates/new-codebase/`)
 
@@ -74,18 +87,24 @@ Implement within existing codebase:
 
 ## 🚀 Getting Started
 
-### 1. **Choose Your Path**
+### 1. **Configure Your AI Assistant**
+- **First step:** Set `prompt-templates/system-prompt.md` as your AI assistant's system prompt
+- **Why?** This establishes consistent development standards and communication protocols
+
+### 2. **Choose Your Development Path**
 - **New project?** Start with `prompt-templates/new-codebase/hone-the-idea.md`
 - **Adding to existing code?** Start with `prompt-templates/existing-codebase/hone-the-idea.md`
 
-### 2. **Follow the Sequence**
+### 3. **Follow the Structured Sequence**
 ```markdown
 # Start here with your idea
 Here is the idea: [Your concept here]
 ```
 
-### 3. **Execute Systematically**
+### 4. **Execute Systematically**
 Use the templates in order: Hone → Plan → Do → Review
+
+**💡 Pro Tip:** Always reference your system prompt when working with AI assistants to ensure consistent, high-quality development outcomes.
 
 ## 🎁 Bonus Features
 
@@ -144,7 +163,8 @@ Systematic approach to code reviews from a product perspective:
 
 ## 💡 Best Practices
 
-### For Prompt Templates
+### For System Prompt & Templates
+- **Start with the system prompt** - Configure this first to establish consistent AI behavior
 - **Follow the sequence** - Use templates in order: Hone → Plan → Do → Review
 - **Customize thoughtfully** - Adapt templates to your specific project needs
 - **Document decisions** - Use your decision log to track why you chose certain approaches

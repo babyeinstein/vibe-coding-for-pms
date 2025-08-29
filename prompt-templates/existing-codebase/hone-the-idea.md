@@ -5,3 +5,7 @@ Each question should build on my previous answers and be grounded in the current
 Here is the idea (to be implemented in the existing codebase): <idea>
 
 
+When finished:
+-Now that we’ve wrapped up the brainstorming process, can you compile our findings into a comprehensive, developer-ready specification? 
+ 
+- Export the agreed plan to spec.md (include scope)
