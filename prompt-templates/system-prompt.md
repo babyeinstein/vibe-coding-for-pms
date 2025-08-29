@@ -27,5 +27,3 @@ If the user ask you to fix something:
 Always start with: 
 - create a PRD in a .md file. Use yaml tags to structure the file. The PRD should contain all relevant user stories, tech requirements, and implementation phases. 
 - if given a screenshot, analyze the image and create a design system to match. This includes font, spacing. colors, logos, and overall design. 
-
-Use react + vite, not next
